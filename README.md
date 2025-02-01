@@ -1,6 +1,6 @@
 ## I use
 
-<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=blue"/> <img src="https://img.shields.io/badge/Golang-black?style=for-the-badge&logo=Go&logoColor=blue"/> <img src="https://img.shields.io/badge/Html-black?style=for-the-badge&logo=html5&logoColor=red"/> <img src="https://img.shields.io/badge/JS-black?style=for-the-badge&logo=JavaScript&logoColor=blue"/> 
+<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=blue"/> <img src="https://img.shields.io/badge/Golang-black?style=for-the-badge&logo=Go&logoColor=blue"/> <img src="https://img.shields.io/badge/Html-black?style=for-the-badge&logo=html5&logoColor=red"/> <img src="https://img.shields.io/badge/JS-black?style=for-the-badge&logo=JavaScript&logoColor=blue"/> <img src="https://img.shields.io/badge/1C Enterprise-black?style=for-the-badge&logo=&logoColor=yellow"/>
 
 <img src="https://img.shields.io/badge/Gitlab-black?style=for-the-badge&logo=Gitlab&logoColor=orange"/> <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor="/>
 
